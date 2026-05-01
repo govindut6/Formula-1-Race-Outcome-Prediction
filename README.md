@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2
 ## Overview
 
   * **Challenge:**  The objective is to model and predict Formula One race outcomes using tabular race data. Specifically, the task is to determine how pre-race and in-race variables (such as grid position, constructor, and performance metrics) influence a driver’s finishing position.
-  * **Approach:** This project formulates the problem as both a regression task (predict exact finishing position) and a classification task (predict whether a driver finishes in the top 10).
+  * **Approach:** This project formulates the problem as both a regression task (predict exact finishing position) and a classification task (predict if a driver finishes in the top 10).
    ML models implemented: Linear Regression and Decision Tree Classifier.
   * **Performance Summary:** The classification model achieved solid accuracy in predicting top 10 finishes, showing that starting grid position and team performance are strong predictors. The regression model showed moderate error, indicating the complexity of race outcomes.
 
@@ -79,7 +79,7 @@ https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2
 ### Conclusions
 
 * Grid position is a strong predictor of race outcome
-* Team (constructor) also significantly impacts performance
+* Constructor also significantly impacts race performance
 * Race outcomes are not perfectly predictable due to randomness (pit stops, weather, crashes)
 
 ### Future Work
