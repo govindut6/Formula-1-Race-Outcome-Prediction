@@ -108,7 +108,7 @@ https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2
 https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2020-2025
 
 2. Run Notebook
-Open the notebook (Kaggle Tabular Data.ipynb)
+Open the notebook (F1.ipynb)
 Run all cells step-by-step
 
 3. Modify
