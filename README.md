@@ -1,6 +1,6 @@
 # 🏎️ Formula 1 - Race Outcome Prediction
 
-This repository explores predictive modeling of Formula One race outcomes using structured race data from Kaggle, using regression and classification techniques to analyze the relationship between starting conditions and final race performance:
+This repository explores predictive modeling of Formula One race outcomes using structured race data from Kaggle, using regression and classification techniques to analyze the relationship between conditions and race performance:
 https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2020-2025 
 
 ## Overview
