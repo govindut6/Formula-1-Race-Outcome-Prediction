@@ -15,7 +15,7 @@ The objective is to predict Formula One race outcomes using tabular data, analyz
   * Type:
     * Input: CSV file containing race data (drivers, grid position, constructors, lap times, etc.)
     * Output: Regression: finishing position, Classification: top 10 finish
-  * Size: Dataset includes multiple seasons (2020–2025). Thousands of race entries
+  * Size: Dataset includes multiple seasons (2020–2025). 480 rows × 16 columns
 
 * Preprocessing / Cleaning: 
   * Removed or handled missing values using forward fill and drop methods
@@ -98,8 +98,6 @@ The objective is to predict Formula One race outcomes using tabular data, analyz
 <img width="689" height="489" alt="image" src="https://github.com/user-attachments/assets/4ec78bec-d5e5-4c3d-87e7-6093df35d0ec" />
 *
 <img width="557" height="489" alt="image" src="https://github.com/user-attachments/assets/869cd897-60be-4e93-b8dd-0a6ff54ae190" />
-*
-<img width="1589" height="590" alt="image" src="https://github.com/user-attachments/assets/b89ca918-9889-4c28-87ad-baa34ba0d065" />
 
 ## Results Reproduction
 
