@@ -5,7 +5,7 @@ https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2
 
 ## Overview
 
-The objective is to model and predict Formula One race outcomes using tabular race data. Specifically, the task is to determine how pre-race and in-race variables (such as grid position, constructor, and performance metrics) influence a driver’s finishing position. This project formulates the problem as both a regression task (predicting the exact finishing position) and a classification task (predicting if a top-10 finish). Machine Learning models implemented: Linear Regression and Decision Tree Classifier. The classification model achieved solid accuracy in predicting top-10 finishes, indicating that starting position and team performance are strong predictors. The regression model showed moderate error, indicating the complexity of race outcomes.
+The objective is to predict Formula One race outcomes using tabular data, analyzing how variables like grid position, constructor, and performance metrics influence finishing position. The task is framed as both regression (exact finishing position) and classification (top-10 finish). Using Linear Regression and a Decision Tree Classifier, results show strong classification accuracy for top-10 predictions, while regression performance reflects the complexity of race outcomes. This is barring unpredictability with random pit-stops, crashes, and weather conditions.
 
 ## Summary of Workdone
 
@@ -76,7 +76,7 @@ The objective is to model and predict Formula One race outcomes using tabular ra
 
 ### Conclusions
 
-* Grid position is the strongest predictor of race outcome → drivers who qualify near the front finish near the front.
+* Grid position is the strongest predictor of race outcome → drivers who start near the front finish near the front.
 * Constructor also plays a significant role, as car performance directly affects finishing position.
 * The classification model (Top-10 prediction) performs well, showing these two features are strong predictors.
 * The regression model shows moderate error → Race outcomes are not predictable due to randomness (pit stops, weather, crashes).
