@@ -90,6 +90,8 @@ https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2
 * Use time-series modeling for race progression
 * Perform hyperparameter tuning
 
+## Visualizations
+
 ## Results Reproduction
 
 1. Download Dataset: 
@@ -104,20 +106,15 @@ You can change the target variable or model to experiment further
 
 ### Overview of files in repository
 
-* Describe the directory structure, if any.
-* List all relevant files and describe their role in the package.
-* An example:
-  * utils.py: various functions that are used in cleaning and visualizing data.
-  * preprocess.ipynb: Takes input data in CSV and writes out data frame after cleanup.
-  * visualization.ipynb: Creates various visualizations of the data.
-  * models.py: Contains functions that build the various models.
-  * training-model-1.ipynb: Trains the first model and saves model during training.
-  * training-model-2.ipynb: Trains the second model and saves model during training.
-  * training-model-3.ipynb: Trains the third model and saves model during training.
-  * performance.ipynb: loads multiple trained models and compares results.
-  * inference.ipynb: loads a trained model and applies it to test data to create kaggle submission.
-
-* Note that all of these notebooks should contain enough text for someone to understand what is happening.
+  * Kaggle Tabular Data.ipynb - Project Instruction file
+  * F1.ipynb - Code file
+  * dataset-metadata.json - json file
+  * f1_2024_constructor_standings.csv - Constructor/Team data
+  * f1_2024_driver_standings.csv - Driver Standings data
+  * f1_2024_race_results.csv - Race Results data
+  * f1_circuits_metadata.csv - Circuit/Track data
+  * f1_historical_drivers.csv - Historical Drivers data
+  * f1_qualifying_results_2024.csv - Qualifying Results data
 
 ### Software Setup
 * Necessary Packages:
