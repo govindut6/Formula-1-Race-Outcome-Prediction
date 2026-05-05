@@ -67,10 +67,11 @@ The objective is to predict Formula One race outcomes using tabular data, analyz
   * Regression: Mean Squared Error (MSE)
   * Classification: Accuracy
 * Results:
-
+  
+** (Faced issues gathering Regression results) 
 | Model | Task | Metric | Performance |
 | :--- | :---: | :---: | ---: |
-| Linear Regression | Regression | MSE / RMSE / R² | MSE=37.85, RMSE=6.15, R²=-0.03 |
+| Linear Regression | Regression | MSE / RMSE / R² | MSE=0.00, RMSE=0.00, R²=1.00 |
 | Decision Tree | Classification | Accuracy | 100.0% |
 
 
@@ -80,6 +81,7 @@ The objective is to predict Formula One race outcomes using tabular data, analyz
 * Constructor also plays a significant role, as car performance directly affects finishing position.
 * The classification model (Top-10 prediction) performs well, showing these two features are strong predictors.
 * The regression model shows moderate error → Race outcomes are not predictable due to randomness (pit stops, weather, crashes).
+* (Limitation Note): Issues were generating a functioning scatter plot with my dataset, along with regression capture issues.
 
 ### Future Work
 
@@ -90,7 +92,7 @@ The objective is to predict Formula One race outcomes using tabular data, analyz
 
 ## Visualizations
 
-* (Had issues generating a proper scatter plot with my given data)
+* (Had issues generating a proper scatter plot & regression with my given data)
 <img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/71320fc8-8c18-42e6-b740-9c3eedbbb395" />
 *
 <img width="1089" height="490" alt="image" src="https://github.com/user-attachments/assets/e2a8f6f2-6d78-49b5-bd8f-5f589e9c48a3" />
