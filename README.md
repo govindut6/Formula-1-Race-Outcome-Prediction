@@ -90,12 +90,14 @@ The objective is to predict Formula One race outcomes using tabular data, analyz
 
 ## Visualizations
 
-*
-<img width="759" height="590" alt="image" src="https://github.com/user-attachments/assets/bee218c7-c6af-4205-9cf8-e16807ff5866" />
+* (Had issues generating a proper scatter plot with my given data)
+<img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/71320fc8-8c18-42e6-b740-9c3eedbbb395" />
 *
 <img width="1089" height="490" alt="image" src="https://github.com/user-attachments/assets/e2a8f6f2-6d78-49b5-bd8f-5f589e9c48a3" />
+* 
+<img width="1390" height="495" alt="image" src="https://github.com/user-attachments/assets/b46dcb0c-3989-4109-bd4d-316144144ba8" />
 *
-<img width="689" height="489" alt="image" src="https://github.com/user-attachments/assets/4ec78bec-d5e5-4c3d-87e7-6093df35d0ec" />
+<img width="1389" height="489" alt="image" src="https://github.com/user-attachments/assets/9bb5a90b-4425-4f32-adab-bd1a4c3bec92" />
 *
 <img width="557" height="489" alt="image" src="https://github.com/user-attachments/assets/869cd897-60be-4e93-b8dd-0a6ff54ae190" />
 
